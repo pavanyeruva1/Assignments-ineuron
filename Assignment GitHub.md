@@ -78,7 +78,7 @@
 1. Proper open source structure 
 2. Proper Readme
 3. Add 2 collaborator 
-4. Host GitHub Pages using settings (Designed to host your personal, organization, or project pages from a GitHub repository)
+4. Host GitHub Pages using settings (Designed to host your personal, organization, or project pages from a GitHub repository)   
 
 ### Task 3 
 1. Create a Issue in your github repository.
