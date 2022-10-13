@@ -30,7 +30,7 @@
 ```
 7. git status
 ```
-
+![](Images/git%20status.PNG)
 ```
 8.git add .
 ```
@@ -46,7 +46,7 @@
 ```
 11.git branch -M main
 ```
-
+![](Images/git%20branch-M%20main.PNG)
 ```
 12.git remote add origin https://github.com/pavanyeruva1/Assignments-ineuron.git
 ```
@@ -54,19 +54,19 @@
 ```
 13. git push -u origin main
 ```
-
+![](Images/git%20push%20origin%20main.PNG)
 ```
 14. git branch Developer1
 ```
-
+![](Images/git%20branch%20developer1.PNG)
 ```
 15. git checkout Developer1
 ```
-
+![](Images/git%20checkout%20main.PNG)
 ```
 16. git switch main
 ```
-
+![](Images/git%20switch%20devloper1.PNG)
 
 
 
