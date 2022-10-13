@@ -6,27 +6,27 @@
 ``` 
 1.git --version
 ```
-
+![](Images/git%20version.PNG)
 ``` 
 2.git init
 ```
-
+![](Images/git%20init.PNG)
 ``` 
 3.git config --global user.name "pavan yeruva"
 ```
 
 ``` 
-4. git config --global user.mail "pavan yeruva1@gmail.com"
+4. git config --global user.email "pavan yeruva1@gmail.com"
 ```
-
+![](Images/git%20config%20mail.PNG)
 ```
 5.git config --global user.name
 ```
-
+![](Images/git%20config%20mail.PNG)
 ```
 6.git config --global user.mail
 ```
-
+![](Images/git%20config%20mail%20data.PNG)
 ```
 7. git status
 ```
